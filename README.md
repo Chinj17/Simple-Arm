@@ -45,3 +45,5 @@ cd <path to your catkin workspace>
 source devel/setup.bash
 rosrun simple_arm simple_mover
 ```
+
+![alt_text](images/simple_mover-2020-05-28_20.00.48.gif)
