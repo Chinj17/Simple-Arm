@@ -46,4 +46,4 @@ source devel/setup.bash
 rosrun simple_arm simple_mover
 ```
 
-![](images/simple_mover.gif)
+![](simple_arm/images/simple_mover.gif)
